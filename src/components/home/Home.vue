@@ -1,16 +1,20 @@
 <template>
   <div class="home">
     <home-header></home-header>
+    <home-swiper></home-swiper>
+    sss
   </div>
 </template>
 
 <script>
 import HomeHeader from './coms/Header';
+import HomeSwiper from './coms/Swiper';
 
 export default {
   name: 'Home',
   components: {
     HomeHeader,
+    HomeSwiper,
   },
   data() {
     return {
