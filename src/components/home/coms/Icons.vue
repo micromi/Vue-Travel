@@ -96,6 +96,8 @@ export default {
   @import '~styles/mixins.styl';
 
   .category-container
+    padding-bottom: 0.25rem;
+    background: #ffffff;
     & >>> .swiper-container
       width: 100%;
       height: 0;

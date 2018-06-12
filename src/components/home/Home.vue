@@ -3,6 +3,8 @@
     <home-header></home-header>
     <home-swiper></home-swiper>
     <home-icons></home-icons>
+    <home-recommend></home-recommend>
+    <home-weekend></home-weekend>
   </div>
 </template>
 
@@ -10,6 +12,8 @@
 import HomeHeader from './coms/Header';
 import HomeSwiper from './coms/Swiper';
 import HomeIcons from './coms/Icons';
+import HomeRecommend from './coms/recommend';
+import HomeWeekend from './coms/weekend';
 
 export default {
   name: 'Home',
@@ -17,6 +21,8 @@ export default {
     HomeHeader,
     HomeSwiper,
     HomeIcons,
+    HomeRecommend,
+    HomeWeekend,
   },
   data() {
     return {
@@ -27,6 +33,7 @@ export default {
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
-<style scoped>
-
+<style lang="stylus" scoped>
+  .home
+    background: #f5f5f5;
 </style>
