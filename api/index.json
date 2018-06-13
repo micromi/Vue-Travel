@@ -1,0 +1,183 @@
+{
+  "city": "杭州",
+  "swiperList": [
+    {
+      "id": "0001",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1806/fc/e47aa3e1c67bbc02.jpg_750x200_0f3eecf8.jpg"
+    },
+    {
+      "id": "0002",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1805/e5/59fad13a64807d02.jpg_750x200_713ae984.jpg"
+    },
+    {
+      "id": "0003",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1804/c4/1cdd28811593b802.jpg_750x200_5fbb7c91.jpg"
+    },
+    {
+      "id": "0004",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1806/8b/2680212fadf30002.jpg_750x200_f85409ac.jpg"
+    },
+    {
+      "id": "0005",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1712/51/36632b2cb850e902.jpg_750x200_fa4120db.jpg"
+    },
+    {
+      "id": "0006",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1609/f8/ef0b29100632f002.jpg_750x200_ebe20c8f.jpg"
+    },
+    {
+      "id": "0007",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1804/13/e1188b0d0f21b902.jpg_750x200_f85c782a.jpg"
+    },
+    {
+      "id": "0008",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1805/13/6332699c44387902.jpg_750x200_b7afa4f8.jpg"
+    }
+  ],
+  "iconList": [
+    {
+      "id": "0001",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+      "desc": "景点门票"
+    },
+    {
+      "id": "0002",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1804/ed/cf572be30fc32f02.png",
+      "desc": "Q+精选"
+    },
+    {
+      "id": "0003",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/47/c2b659e048b11602.png",
+      "desc": "主题乐园"
+    },
+    {
+      "id": "0004",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/75/eca3ce656c886502.png",
+      "desc": "漂流"
+    },
+    {
+      "id": "0005",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/80/416c6ab3368d1f02.png",
+      "desc": "全部玩乐"
+    },
+    {
+      "id": "0006",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/17/99402a22ce4af302.png",
+      "desc": "印象西湖"
+    },
+    {
+      "id": "0007",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/e3/67df61427c8e1302.png",
+      "desc": "宋城千古情"
+    },
+    {
+      "id": "0008",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/b8/c5dcdb58deec2402.png",
+      "desc": "西溪湿地"
+    },
+    {
+      "id": "0009",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/75/eca3ce656c886502.png",
+      "desc": "千岛湖"
+    },
+    {
+      "id": "0010",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/17/99402a22ce4af302.png",
+      "desc": "西湖"
+    }
+  ],
+  "recommendList": [
+    {
+      "id": "0001",
+      "imgUrl": "http://img1.qunarzz.com/sight/p0/1801/66/665b245a7ca8728a3.img.jpg_200x200_88d144ad.jpg",
+      "title": "杭州烂苹果乐园",
+      "tag": "可订明日",
+      "tagUrl": "https://img1.qunarzz.com/piao/fusion/1802/52/b9080e45b69b4f02.png",
+      "comment": 5578,
+      "price": 140,
+      "address": "萧山区"
+    },
+    {
+      "id": "0002",
+      "imgUrl": "http://img1.qunarzz.com/sight/p0/1412/be/c788f0f3767d2ea037b9b66d2010bfa4.water.jpg_200x200_ead93bcd.jpg",
+      "title": "宋城千古情",
+      "tag": "",
+      "tagUrl": "",
+      "comment": 14782,
+      "price": 245,
+      "address": "西湖区"
+    },
+    {
+      "id": "0003",
+      "imgUrl": "http://img1.qunarzz.com/sight/p0/1603/ae/aecef86d7655873f90.water.jpg_200x200_22a0790e.jpg",
+      "title": "杭州野生动物园",
+      "tag": "可订明日",
+      "tagUrl": "https://img1.qunarzz.com/piao/fusion/1802/52/b9080e45b69b4f02.png",
+      "comment": 4798,
+      "price": 170,
+      "address": "富阳市"
+    },
+    {
+      "id": "0004",
+      "imgUrl": "http://img1.qunarzz.com/sight/p0/1508/12/4e6170303c63bdb7070fb1987480afab.water.jpg_200x200_0775a71c.jpg",
+      "title": "杭州极地海洋世界",
+      "tag": "可订明日",
+      "tagUrl": "https://img1.qunarzz.com/piao/fusion/1802/52/b9080e45b69b4f02.png",
+      "comment": 634,
+      "price": 345,
+      "address": "萧山区"
+    },
+    {
+      "id": "0005",
+      "imgUrl": "http://img1.qunarzz.com/sight/p0/201408/14/771e7f0a85ca13b12c3fde0f7739440f.jpg_200x200_5e08c104.jpg",
+      "title": "杭州极地海洋世界",
+      "tag": "",
+      "tagUrl": "",
+      "comment": 4447,
+      "price": 120,
+      "address": "萧山区"
+    },
+    {
+      "id": "0006",
+      "imgUrl": "http://img1.qunarzz.com/sight/p0/201405/27/8211cadd5d9fefeaa044c5b7eefc695d.jpg_200x200_38791bd1.jpg",
+      "title": "千岛湖",
+      "tag": "随买随用",
+      "tagUrl": "https://img1.qunarzz.com/piao/fusion/1802/20/2ba6d10b17972e02.png",
+      "comment": 6177,
+      "price": 24,
+      "address": "淳安县"
+    }
+  ],
+  "weekendList": [
+    {
+      "id": "0001",
+      "imgUrl": "http://img1.qunarzz.com/sight/source/1505/4e/3e87ee62e59cdb.jpg_r_640x214_fe6cc902.jpg",
+      "title": "杭州必游TOP10",
+      "desc": "杭州，前世今生与你有一场美丽约会"
+    },
+    {
+      "id": "0002",
+      "imgUrl": "http://img1.qunarzz.com/sight/source/1505/9f/7d45cc38259e0.jpg_r_640x214_156f4299.jpg",
+      "title": "承载杭城的历史之地",
+      "desc": "饱经沧桑的地方诉述着这座城的段段衷肠"
+    },
+    {
+      "id": "0003",
+      "imgUrl": "http://img1.qunarzz.com/sight/source/1505/bc/83feb2e003d0dd.jpg_r_640x214_0b7269b8.jpg",
+      "title": "杭州多样乐园",
+      "desc": "这个周末终于可以陪宝贝去玩耍啦"
+    },
+    {
+      "id": "0004",
+      "imgUrl": "http://img1.qunarzz.com/sight/source/1507/61/a7564da6033311.jpg_r_640x214_cc570e76.jpg",
+      "title": "激情漂流，嗨翻夏日",
+      "desc": "漂起来，展现你的“湿身”诱惑"
+    },
+    {
+      "id": "0005",
+      "imgUrl": "http://img1.qunarzz.com/sight/source/1505/ae/4fe23c6b6679e2.jpg_r_640x214_368a18d8.jpg",
+      "title": "美仑美奂的演出",
+      "desc": "一座有故事的城，天天有“戏”在上演"
+    }
+  ]
+}

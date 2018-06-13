@@ -1,10 +1,10 @@
 <template>
   <div class="home">
-    <home-header></home-header>
-    <home-swiper></home-swiper>
-    <home-icons></home-icons>
-    <home-recommend></home-recommend>
-    <home-weekend></home-weekend>
+    <home-header :city="city"></home-header>
+    <home-swiper :list="swiperList"></home-swiper>
+    <home-icons :list="iconList"></home-icons>
+    <home-recommend :list="recommendList"></home-recommend>
+    <home-weekend :list="weekendList"></home-weekend>
   </div>
 </template>
 
@@ -26,8 +26,30 @@ export default {
   },
   data() {
     return {
-      msg: 'Hello Travel',
+      city: '',
+      swiperList: [],
+      iconList: [],
+      recommendList: [],
+      weekendList: [],
     };
+  },
+  mounted() {
+    this.getHomeInfo();
+  },
+  methods: {
+    getHomeInfo() {
+      this.$http.get('/api/index').then((response) => {
+        const res = response.data;
+        if (res.code === '10000' && res.data) {
+          const data = res.data;
+          this.city = data.city;
+          this.swiperList = data.swiperList;
+          this.iconList = data.iconList;
+          this.recommendList = data.recommendList;
+          this.weekendList = data.weekendList;
+        }
+      });
+    },
   },
 };
 </script>
